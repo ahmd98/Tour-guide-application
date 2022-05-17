@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EgyptTourGuide</string>
+    <string name="dialog_title_location">Location address..</string>
+    <string name="dialog_title_info">Location Info..</string>
+    <string name="dialog_message_location">getting the location</string>
+    <string name="dialog_message_info">getting the place info</string>
+    <string name="missing_latitude_longtude">no latitude or longtude available</string>
+    <string name="i_max_location">Americana Plaza, Giza Governorate</string>
+    <string name="dream_park_location">6 October, Giza Governorate</string>
+    <string name="fagnoon_location">Sakarah Road, Near Giza</string>
+    <string name="floating_location">Abd El-Aziz Al Soud st, Manial, Cairo Governorate</string>
+    <string name="national_theatre_location">1 Seif Al-Nasr st, Ataba, Cairo Governorate</string>
+    <string name="kidzania_location">Cairo Governorate, Near Cairo Festival City Mall</string>
+    <string name="adrinaline_park_location">Gate 1 ElHezam ElAkhdar, infront of Beverly Hills, ElSheikh Zayed,, Cairo Governorate</string>
+    <string name="andalus_park_location">Zamalek, Cairo Governorate, Kasr El-Neil Bridge</string>
+    <string name="asmak_park_location">El Gabalaya St, Al Gabalayah, Zamalek, Giza Governorate</string>
+    <string name="orman_botanical_park_location">Square, Oula, Giza, Giza Governorate, near The Zoo</string>
+    <string name="family_park_location">Rehab Entrance 2, Kilo 26, Cairo-Suez Desert Road</string>
+    <string name="international_park_location">Mahmoud Ibrahim st, emerged from Abas El-Akad st, Al-Hay Al-Sabe, Nasir City, Cairo</string>
+    <string name="mall_of_arabia_location">26th of July Corridor, Giza Governorate</string>
+    <string name="cityskape_mall_location">Al Horreya Square, Al Mehwar Al Markazi, Giza Governorate</string>
+    <string name="dandy_mall_location">Alex-Cairo Desert Road, Giza Governorate</string>
+    <string name="first_mall_location">Kafr Tohormos Rd, Kafr Tohormos /B, Qesm Boulaq Ad Dakrour, Giza Governorate</string>
+    <string name="cairo_mall_location">At Talbeyah Al Qebleyah, Al Omraneyah, Giza Governorate</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_Historic">Historic</string>
+    <string name="category_Entertainment">Entertainment</string>
+    <string name="category_Gardens">Gardens</string>
+
+    <string-array name="tab_names">
+        <item>Historical</item>
+        <item>Fun</item>
+        <item>Food &amp; Drinks</item>
+        <item>Shopping</item>
+        <item>Parks</item>
+    </string-array>
+</resources>
